@@ -14,7 +14,7 @@ nc localhost 8001
 Have fun chatting!!!
 
 ### Now the challenge (I want to avoid `very` while I am chatting)
-The chat app automatically converts some of the words like `very hot, very angry` etc to a single word like `scalding, furious` respectively.
+The chat app automatically converts some of the words like `very hot, very angry` to single word like `scalding, furious` respectively.
 For example,
 ```
 I am very happy translates to I am jubilant
