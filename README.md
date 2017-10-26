@@ -31,7 +31,7 @@ and NOT
 ```
 I am furious because the weather is scalding
 ```
-    1. Update the code to translate multiple occurances of the *__very <something>__* to a single word (Refer to `very.json` for the list or possible translations)
+Update the code to translate multiple occurances of the `very <something>` to a single word (Refer to `very.json` for the list or possible translations)
 ### More challenges
 Use nodejs code to solve the following problems:
   1. Write a function named `isDivisible(arr, divisor)` that takes an integer array and a `divisor` and returns 1 if all its elements are perfectly divisible by the divisor. Otherwise it returns 0 .
