@@ -6,7 +6,7 @@ const sockets = {};
 const avoidVery = input => {
   match = /(very\s(\w+))/ig.exec(input);
   const replacement = match ? match[2] : null;
-  if (replacement) {
+  if (replacement && Object.keys(very).includes(replacement)) {
     return input.replace(/very\s\w+/, very[replacement]);
   }
   return input;

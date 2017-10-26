@@ -7,8 +7,11 @@
 `node server.js`
 
 ### Using chat app
-Open a few more terminal sessions
-`nc localhost 8001` on each terminal session.
+Open a few more terminal sessions and run
+```
+nc localhost 8001
+```
+on each terminal session.
 Have fun chatting!!!
 
 ### Now the challenge (I want to avoid `very` while I am chatting)
