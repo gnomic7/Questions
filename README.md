@@ -33,7 +33,7 @@ I am furious because the weather is scalding
 ```
 Update the code to translate multiple occurances of the `very <something>` to a single word (Refer to [`very.json`](https://writerswrite.co.za/45-ways-to-avoid-using-the-word-very/) for the list or possible translations)
 ### More challenges
-Use nodejs code to add the following features to this chat app (update chat/server.js file to complete these challenges):
+Use nodejs add the following features to this chat app (update chat/server.js file to complete these challenges):
   1. Write a function named `isDivisible(arr, divisor)` that takes an integer array and a `divisor` and returns 1 if all its elements are perfectly divisible by the divisor. Otherwise it returns 0 .
   For example
   ```
